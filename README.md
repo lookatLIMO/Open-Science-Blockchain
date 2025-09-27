@@ -1,0 +1,9 @@
+# Open-Science-Blockchain
+
+Over the past decade, empirical psychology has faced one of the most critical challenges in its history. High-profile instances of data fabrication, the dissemination of implausible findings, and extensive evidence of non-replicability have collectively undermined confidence in the discipline’s empirical foundations.
+
+The ensuing period of critical self-examination revealed deep structural weaknesses in the research process. These include publication bias, questionable research practices, the misuse of statistical inference, inadequate statistical power, and a distorted incentive system that prioritises novelty and positive results over methodological rigour and transparency. While detrimental in the short term, this crisis has also served as a catalyst for reform, transforming an apparent disaster into an opportunity for cultural renewal. In this sense, it may be reconceptualised as a Replication Eucatastrophe: a palingenetic moment in which systemic failure becomes the impetus for progress.
+
+The Open Science Movement has articulated a comprehensive response to these challenges. Guided by Nosek’s Strategy for Culture Change (2019), its principles seek to make open practices possible and easy, normative, rewarding, and required. Encouragingly, there are already signs of progress. Nonetheless, these gains remain fragile, and their consolidation requires infrastructures capable of embedding transparency into the research process itself.
+
+In this light, I propose a blockchain-based framework to support the entire research lifecycle. By integrating cryptographic verification, time-stamping, cryptocurrencies, smart contracts, and a decentralised governance structure with existing OS solutions and tools (e.g., OSF), this approach can secure the immutability of research outputs, automate preregistration and peer-review processes, incentivise reproducible practices, and democratise participation in science.
