@@ -1,4 +1,4 @@
-# Open-Science-Blockchain
+# TOWARDS A NEW SCIENTIFIC UTOPIA: A BLOCKCHAIN-BASED FRAMEWORK TO SUPPORT OPEN SCIENCE IN PSYCHOLOGY
 
 Over the past decade, empirical psychology has faced one of the most critical challenges in its history. High-profile instances of data fabrication, the dissemination of implausible findings, and extensive evidence of non-replicability have collectively undermined confidence in the discipline’s empirical foundations.
 
